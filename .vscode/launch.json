@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GenomeApp",
+            "request": "launch",
+            "mainClass": "GenomeApp",
+            "projectName": "Genome_92ee20c0"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Genome_92ee20c0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AllCodonsApp",
+            "request": "launch",
+            "mainClass": "AllCodonsApp",
+            "projectName": "Genome_92ee20c0"
+        },
+        {
+            "type": "java",
+            "name": "FindGeneTest",
+            "request": "launch",
+            "mainClass": "FindGeneTest",
+            "projectName": "Genome_92ee20c0"
+        }
+    ]
+}
